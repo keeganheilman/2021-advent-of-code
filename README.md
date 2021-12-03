@@ -1,6 +1,8 @@
 # 2021 - Advent of Code
 
+solutions by Keegan unless noted otherwise
 
+---
 
 ### <a href="https://adventofcode.com/2021/about">About Advent of Code</a>
 
