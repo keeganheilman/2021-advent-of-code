@@ -1,15 +1,8 @@
 # 2021 - Advent of Code
-https://adventofcode.com/2021/about
 
 
 
----
-
-solutions by keegan unless otherwise noted.
-
-
-About Advent of Code
-===
+### <a href="https://adventofcode.com/2021/about">About Advent of Code</a>
 
 <p>Advent of Code is made by <a href="http://was.tl/">Eric Wastl</a>.  You can find him on <a href="https://twitter.com/ericwastl">Twitter</a> and <a href="https://github.com/topaz">GitHub</a>.</p>
 <p><em>Advent of Code</em> is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in <a href="https://github.com/search?q=advent+of+code">any</a> programming language you like. People use them as a <a href="https://adventofcode.com/leaderboard">speed contest</a>, <a href="https://y3l2n.com/2018/05/09/interview-prep-advent-of-code/">interview</a> <a href="https://twitter.com/dznqbit/status/1037607793144938497">prep</a>, <a href="https://twitter.com/pgoultiaev/status/950805811583963137">company training</a>, <a href="https://gitlab.com/imhoffman/fa19b4-mat3006/wikis/home">university</a> <a href="https://www.gribblelab.org/scicomp2019/">coursework</a>, <a href="https://twitter.com/mrdanielklein/status/936267621468483584">practice</a> <a href="https://comp215.blogs.rice.edu/">problems</a>, or to <a href="https://www.reddit.com/r/adventofcode/search?q=flair%3Aupping&restrict_sr=on">challenge each other</a>.</p>
